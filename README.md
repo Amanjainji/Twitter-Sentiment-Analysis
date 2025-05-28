@@ -129,8 +129,8 @@ Negative tweets:
 * Python
 * Tweepy (Twitter API)
 * Scikit-learn
-* XGBoost (optional)
-* TextBlob/NLTK (for preprocessing)
+* Logistic Regression and XGBoost (optional)
+* NLTK (for preprocessing)
 
 ---
 
