@@ -133,14 +133,3 @@ Negative tweets:
 * NLTK (for preprocessing)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Let me know if you'd like to include a sample dataset, `train_model.py`, or deploy it via Streamlit or Flask.
-```
