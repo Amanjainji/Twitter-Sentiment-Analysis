@@ -10,7 +10,7 @@ This project analyzes sentiments of real-time tweets using a trained machine lea
   - Stopword removal (`nltk`)
 - Feature extraction using `TfidfVectorizer`
 - Sentiment prediction using:
-  - Logistic Regression / XGBoost (trained offline)
+  - Logistic Regression / XGBoost / SVM / Naive Bayes 
 - Display of sentiment percentages and example tweets
 
 ---
