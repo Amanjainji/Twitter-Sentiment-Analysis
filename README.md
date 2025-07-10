@@ -121,7 +121,6 @@ Negative tweets:
 | Linear SVM            | 76.96%   | Fast   | 
 | Naive Bayes           | 75.58%   | Fast   | 
 ---
----
 
 ## 📌 Notes
 
