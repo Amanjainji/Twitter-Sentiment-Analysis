@@ -6,7 +6,6 @@ This project analyzes sentiments of real-time tweets using a trained machine lea
 
 - Real-time tweet extraction using Twitter API (via Tweepy)
 - Preprocessing using:
-  - Regex cleaning
   - Stemming (`PorterStemmer`)
   - Stopword removal (`nltk`)
 - Feature extraction using `TfidfVectorizer`
@@ -114,7 +113,14 @@ Negative tweets:
 - This is the worst update ever.
 - Totally disappointed.
 ```
-
+#Comparison between diffrent models
+| Model                 | Accuracy | Speed  | 
+|-----------------------|----------|--------|
+| Logistic Regression   | 80.66%   | Fast   | 
+| XG Boost              | 74.50%   | Medium | 
+| Linear SVM            | 76.96%   | Fast   | 
+| Naive Bayes           | 75.58%   | Fast   | 
+---
 ---
 
 ## 📌 Notes
